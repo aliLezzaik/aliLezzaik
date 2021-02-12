@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aliLezzaik
+- 👀 I’m interested in Software Development and Front-end Development
+- 🌱 I’m currently learning Computer Science with a Stream in Internet Security
+- 💞️ I’m looking to collaborate on Working in Software Development projects
+- 📫 How to reach me alilezzaik@cmail.carleton.ca
